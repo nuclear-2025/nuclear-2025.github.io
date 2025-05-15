@@ -1,12 +1,14 @@
 ---
 layout: page
 permalink: /participants/
-title: Speakers
+title: Participants
 nav: true
 nav_order: 1
+toc:
+  sidebar: left
 ---
 
-# Speakers
+## Speakers
 
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Edoardo Battaglia" affiliation="University of Utah" url="https://faculty.utah.edu/u6037710-EDOARDO_BATTAGLIA/research/index.hml" img="/assets/img/people/edoardo.png" %}
@@ -32,7 +34,7 @@ nav_order: 1
 </div>
 
 {% comment %}
-# Roundtable Panelists
+## Roundtable Panelists
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Jessica Burgner-Kahrs" affiliation="University of Toronto" url="https://www.utm.utoronto.ca/math-cs-stats/people/jessica-burgner-kahrs" img="/assets/img/people/jessica.jpg" %}
 
@@ -48,13 +50,12 @@ nav_order: 1
 
   {% include people_horizontal.html name="Pietro Valdastri" affiliation="University of Leeds" url="https://eps.leeds.ac.uk/electronic-engineering/staff/863/professor-pietro-valdastri" img="/assets/img/people/pietro.jpg" %}
 
-
 </div>
 
 {% endcomment %}
 
 
-# Organizers
+## Organizers
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Xiaoying Zheng" affiliation="Shanghai Advanced Research Institute" url="https://people.ucas.ac.cn/~zhengxy?language=en" img="/assets/img/people/xiaoying.webp" %}
 

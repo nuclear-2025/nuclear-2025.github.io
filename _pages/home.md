@@ -9,9 +9,6 @@ description: A workshop to bring together digital nuclear spectroscopy proffecio
 ---
 
 # Workshop at a Glance
-This workshop will be an **hybrid event** taking place on <b>June 3</b> from **8:45am** to **5:00pm**. The session will cover invited talks and a panel discussion.
-
-# Call for presentations
 Artificial intelligence (AI) is transforming scientific discovery,
 giving rise to the emerging paradigm of *AI for Science*—a catalyst for
 innovation at unprecedented speeds. Advanced AI algorithms empower
@@ -37,6 +34,8 @@ cutting-edge solutions to performance challenges. We invite
 contributions that demonstrate how AI methodologies can optimize
 computational efficiency and advance scientific discovery.
 
+# Technical details
+This workshop will be an **hybrid event** taking place on <b>June 3</b> from **8:45am** to **5:00pm** (GMT times). The session will cover invited talks, contributed talks and a panel discussion.
 
 {% comment %}
 <div class= "h4" style="font-weight: bold; color: #ff6c0c; text-align: center;">
