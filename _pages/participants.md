@@ -56,7 +56,7 @@ nav_order: 1
 
 # Organizers
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="S. Farokh Atashzar" affiliation="New York University" url="https://engineering.nyu.edu/faculty/s-farokh-atashzar" img="/assets/img/people/farokh.jpg" %}
+  {% include people_horizontal.html name="Xiaoying Zheng" affiliation="Shanghai Advanced Research Institute" url="https://people.ucas.ac.cn/~zhengxy?language=en" img="xiaoying.webp" %}
   {% include people_horizontal.html name="Farshid Alambeigi" affiliation="The University of Texas at Austin" url="https://www.me.utexas.edu/people/faculty-directory/alambeigi" img="/assets/img/people/farshid.jpg" %}
   {% include people_horizontal.html name="Jie Ying Wu" affiliation="Vanderbilt University" url="https://engineering.vanderbilt.edu/bio/jieying-wu" img="/assets/img/people/jie.jpg" %}
   {% include people_horizontal.html name="Loris Fichera" affiliation="Worcester Polytechnic Institute" img="assets/img/people/loris.jpg" url="https://www.wpi.edu/people/faculty/lfichera" %}
