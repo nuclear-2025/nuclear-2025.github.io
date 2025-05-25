@@ -1,46 +1,38 @@
 ---
 layout: home
 title: Home
-home_title: <b>Digital Nuclear Spectroscopy Workshop</b>
+home_title: <b>Workshop on Advanced Methods for Nuclear Physics and Biotechnology</b>
 subtitle:
 nav_title: Home
 permalink: /
-description: A workshop to bring together digital nuclear spectroscopy proffecionals
+description: 
 ---
 
-# Workshop at a Glance
-Artificial intelligence (AI) is transforming scientific discovery,
-giving rise to the emerging paradigm of *AI for Science*—a catalyst for
-innovation at unprecedented speeds. Advanced AI algorithms empower
-researchers to analyze complex, large-scale datasets, uncovering hidden
-patterns that guide experimental design and decision-making. However,
-these AI technologies typically demand intensive computational
-resources, relying on high-performance computing (HPC) systems and
-hardware accelerators for efficient execution.
+# Workshop on Advanced Methods for Nuclear Physics and Biotechnology - Call for Presentations
 
-To meet these demands, modern computing infrastructure increasingly
-integrates parallel and distributed systems, blending heterogeneous
-hardware, algorithms, and computational approaches to surpass the
-limitations of conventional supercomputing. In scientific applications,
-clusters of accelerators (e.g., GPUs, FPGAs) are now indispensable for
-training and deploying neural network models. The iterative nature of AI
-training, coupled with the massive scale of datasets, has further
-solidified AI as a "killer application" for parallel computing,
-distributed systems, and HPC—driving significant research in these fields.
+We are pleased to invite submissions of presentations for our upcoming interdisciplinary workshop dedicated to the latest advancements and applications bridging fundamental physics, advanced data analysis, and emerging technologies. This online workshop aims to be an exchange platform between researchers working in connected fields, to further increase collaboration on this exciting topic.
 
-This workshop aims to bridge the gap between the parallel/distributed
-computing community and AI for Science practitioners, showcasing
-cutting-edge solutions to performance challenges. We invite
-contributions that demonstrate how AI methodologies can optimize
-computational efficiency and advance scientific discovery.
+We encourage contributions addressing the following topics:
+
+- Nuclear Science: Theory and Applications
+- Signal Processing for Spectroscopy
+- Machine Learning and Deep Learning Applications
+- Statistical Methods in Experimental Physics
+- Numerical Methods in Nuclear Spectroscopy
+- Radiation Measurement Methods and Technologies
+- Advanced Sensor Technologies and Instrumentation Systems
+- Computational Physics Simulations
+- Explainable and Model-Based AI
+- Applications of Spectroscopy and Nuclear Science in Agriculture, Food Science, and Biotechnology
+
+We welcome theoretical, experimental, methodological, and application-focused contributions. Submit your abstract outlining original research, innovative methodologies, or impactful case studies. Selected presentations will highlight groundbreaking interdisciplinary work, foster networking opportunities, and encourage collaborative discussions.
 
 # Technical details
-This workshop will be an **hybrid event** taking place on <b>June 3</b> from **8:45am** to **5:00pm** (GMT times). The session will cover invited talks, contributed talks and a panel discussion.
+This workshop will be an **hybrid event** taking place on <b>Sep 09</b> at **07:00GMT** (08:00Paris, 09:00Israel, 14:00China,16:00Australia). The session will cover invited talks, contributed talks and a panel discussion (optional).
 
-{% comment %}
-<div class= "h4" style="font-weight: bold; color: #ff6c0c; text-align: center;">
-The list of speakers is being finalized. Check back soon!
-</div>
-{% endcomment %}
+Submission Deadline: Aug 01 (anywhere on Earth)
+
+Abstracts will be submitted online at the following link: [Insert link]
+
 
 
