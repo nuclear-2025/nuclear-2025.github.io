@@ -5,10 +5,10 @@ home_title: <b>Workshop on Advanced Methods for Nuclear Physics and Biotechnolog
 subtitle:
 nav_title: Home
 permalink: /
-description: 
+description: Call for Presentations
 ---
 
-# Workshop on Advanced Methods for Nuclear Physics and Biotechnology - Call for Presentations
+# Workshop on Advanced Methods for Nuclear Physics and Biotechnology
 
 We are pleased to invite submissions of presentations for our upcoming interdisciplinary workshop dedicated to the latest advancements and applications bridging fundamental physics, advanced data analysis, and emerging technologies. This online workshop aims to be an exchange platform between researchers working in connected fields, to further increase collaboration on this exciting topic.
 
@@ -32,7 +32,7 @@ This workshop will be an **hybrid event** taking place on <b>Sep 09</b> at **07:
 
 Submission Deadline: Aug 01 (anywhere on Earth)
 
-Abstracts will be submitted online at the following link: [Insert link]
+Abstracts will be submitted online at the following link (CMT): [Insert link]
 
 
 
