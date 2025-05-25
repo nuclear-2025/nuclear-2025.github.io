@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /participants/
+permalink: /organizers/
 title: Oraganizers
 nav: true
 nav_order: 2
