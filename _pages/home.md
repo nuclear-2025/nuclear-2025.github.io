@@ -30,7 +30,7 @@ We welcome theoretical, experimental, methodological, and application-focused co
 # Technical details
 This workshop will be an **hybrid** one-day even taking place on <b>Sep 09</b> at **07:00GMT** (08:00Paris, 09:00Israel, 14:00China,16:00Australia). Parallel sessions will cover invited talks, contributed talks, student presentations and a panel discussion. 
 
-Physical location: Shanghai Advanced Research Institute, Chinese Academy of Sciences, Shanghai, China.
+Physical location: [Shanghai Advanced Research Institute, Chinese Academy of Sciences](http://english.sari.cas.cn/), Shanghai, China.
 
 
 Submission Deadline: Aug 01 (anywhere on Earth)
