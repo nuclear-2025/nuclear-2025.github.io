@@ -10,9 +10,8 @@ toc:
 
 ## Speakers
 
-{% comment %}
+
 <div class= "h4" style="font-weight: bold; color: #ff6c0c; text-align: center;">
 The list of speakers to be announced.
 </div>
-{% endcomment %}
 
