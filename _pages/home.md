@@ -28,7 +28,10 @@ We encourage contributions addressing the following topics:
 We welcome theoretical, experimental, methodological, and application-focused contributions. Submit your abstract outlining original research, innovative methodologies, or impactful case studies. Selected presentations will highlight groundbreaking interdisciplinary work, foster networking opportunities, and encourage collaborative discussions.
 
 # Technical details
-This workshop will be an **hybrid event** taking place on <b>Sep 09</b> at **07:00GMT** (08:00Paris, 09:00Israel, 14:00China,16:00Australia). The session will cover invited talks, contributed talks and a panel discussion (optional).
+This workshop will be an **hybrid** one-day even taking place on <b>Sep 09</b> at **07:00GMT** (08:00Paris, 09:00Israel, 14:00China,16:00Australia). Parallel sessions will cover invited talks, contributed talks, student presentations and a panel discussion. 
+
+Physical location: Shanghai Advanced Research Institute, Chinese Academy of Sciences, Shanghai, China.
+
 
 Submission Deadline: Aug 01 (anywhere on Earth)
 
