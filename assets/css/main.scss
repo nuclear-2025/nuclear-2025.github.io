@@ -24,18 +24,17 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
-/* container for the fixed-height figure */
-.card-item .card-figure {
-  height: 180px;        /* pick whatever uniform height you want */
-  overflow: hidden;     /* crop any overflow */
-  display: flex;        /* so the <img> can be centered if you like */
-  align-items: center;  /* vertically center the image within the box */
-  justify-content: center;
+/* pick whatever fixed height works for you: */
+.fixed-height-figure {
+  height: 180px;        /* all figures are 180px tall */
+  overflow: hidden;     /* if image is slightly too tall, crop—but see next rule */
+  margin: 0;            /* reset default figure margins if you like */
 }
 
-/* make the image fill the height and preserve aspect ratio */
-.card-item .card-figure img {
-  height: 100%;
-  width: auto;
-  object-fit: cover;    /* crops/zooms to completely fill the height */
+/* target the <img> inside that figure: */
+.fixed-height-figure img {
+  height: 100%;         /* fill the container’s height */
+  width: auto;          /* keep aspect ratio */
+  object-fit: contain;  /* ensure no weird stretching/cropping */
+  display: block;       /* remove inline-block whitespace */
 }
