@@ -42,7 +42,7 @@ The list of speakers is being finalized. Check back soon!
 	name="Zheng Jie"
 	title="TBA"
 	affiliation="ShanghaiTech University"
-	abstract="TBA"
+	abstract="TBA" %}
 </div>
 
 
