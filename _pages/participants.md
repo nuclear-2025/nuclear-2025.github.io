@@ -27,14 +27,14 @@ The list of speakers is being finalized. Check back soon!
      url="/participants/"
      name="Dr. Shoupeng Wang"
      title="Transformer Algorithm for Pile-up Correction in Synchrotron Spectroscopic Detection"
-     affiliation="Shanghai Synchrotron Radiation Facility"
+     affiliation="Shanghai Synchrotron Radiation Facility (SSRF)"
      abstract="In high-flux synchrotron radiation experiments, the pile-up effect significantly degrades the energy resolution and data accuracy of spectroscopic detection systems. This issue becomes particularly pronounced under high count rate conditions, where traditional pile-up correction algorithms often suffer from limited recognition accuracy and adaptability. To address these challenges, this paper proposes a pile-up identification method based on a Transformer deep learning architecture, and implements a heterogeneous electronics system that integrates FPGA and GPU computing. The system utilizes a digital pulse processor (DPP) equipped with a Xilinx Zynq UltraScale+ MPSoC for real-time signal processing, while the GPU is employed for Transformer model training and parameter optimization. Offline testing demonstrates that the system maintains stable pile-up correction performance across a wide count rate range (from several kcps to Mcps), achieving an energy resolution of approximately 130 eV at a high input rate of 1 Mcps. Furthermore, the system exhibits strong resilience to noise and signal distortions, indicating its broad application potential for real-time pile-up correction in high-flux synchrotron X-ray fluorescence and absorption spectroscopy experiments." %}
 
   {% include horizontal_talk.html
      url="/participants/"
      name="Prof. Yue Zhang"
      title="Progress on the SLEGS Beamline Nuclear Resonance Fluorescence Spectrometer"
-     affiliation="Shanghai Synchrotron Radiation Facility"
+     affiliation="Shanghai Synchrotron Radiation Facility (SSRF)"
      abstract="This report will describe the development and testing of the NRF spectrometer at the SLEGS beamline, which produces polarized, quasi-monochromatic gamma-rays via inverse Compton scattering. The spectrometer, configured with HPGe and LaBr3 detectors, demonstrated excellent energy resolution and stability. The spectrometer is now operational for user experiments studying photonuclear reactions in fundamental and applied nuclear physics." %}
 	 
 	{% include horizontal_talk.html
