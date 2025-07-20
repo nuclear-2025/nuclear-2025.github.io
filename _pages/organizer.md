@@ -7,7 +7,6 @@ nav_order: 2
 ---
 
 
-## Organizers
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Xiaoying Zheng" affiliation="Shanghai Advanced Research Institute" url="https://people.ucas.ac.cn/~zhengxy?language=en" img="/assets/img/people/xiaoying.jpg" %}
 
