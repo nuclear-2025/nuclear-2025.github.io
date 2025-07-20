@@ -11,5 +11,7 @@ nav_order: 2
   {% include people_horizontal.html name="Xiaoying Zheng" affiliation="Shanghai Advanced Research Institute" url="https://people.ucas.ac.cn/~zhengxy?language=en" img="/assets/img/people/xiaoying.jpg" %}
 
   {% include people_horizontal.html name="Tom Trigano" affiliation="Shamoon College of Engineering" url="https://en.sce.ac.il/faculty/tom" img="/assets/img/people/tom_trigano_picture.webp" %}
+  
+  {% include people_horizontal.html name="Dima Bykhovsky" affiliation="Shamoon College of Engineering" url="https://bykhov.github.io" img="/assets/img/people/DimaBykhovsky.jpg" %}
 
 </div>
