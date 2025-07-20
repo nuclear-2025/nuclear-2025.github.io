@@ -1,0 +1,16 @@
+<div class="card-item col">  
+  <a href="{{ include.url | relative_url }}">  
+    <div class="card hoverable">
+      <div class="card-body text-right">
+        <h5 class="card-title">{{ include.name }}</h5>
+        {% if include.title %}
+          <h6 class="card-subtitle mb-2">{{ include.title }}</h6>
+        {% endif %}
+        <p class="card-text">{{ include.affiliation }}</p>
+        {% if include.abstract %}
+          <p class="card-text abstract">{{ include.abstract }}</p>
+        {% endif %}
+      </div>
+    </div>
+  </a>
+</div>
