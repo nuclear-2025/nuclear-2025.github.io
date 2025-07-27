@@ -37,12 +37,12 @@ The list of speakers is being finalized. Check back soon!
      affiliation="Shanghai Synchrotron Radiation Facility (SSRF)"
      abstract="This report will describe the development and testing of the NRF spectrometer at the SLEGS beamline, which produces polarized, quasi-monochromatic gamma-rays via inverse Compton scattering. The spectrometer, configured with HPGe and LaBr3 detectors, demonstrated excellent energy resolution and stability. The spectrometer is now operational for user experiments studying photonuclear reactions in fundamental and applied nuclear physics." %}
 	 
-	{% include horizontal_talk.html
+  {% include horizontal_talk.html
 	url="https://faculty.sist.shanghaitech.edu.cn/zhengjie/index.htm"
 	name="Prof. Zheng Jie"
-	title="TBA"
+	title="Explainable AI for Discovery of Synthetic Lethal Anti-Cancer Drug Targets Based on Large Language Models"
 	affiliation="ShanghaiTech University"
-	abstract="TBA" %}
+	abstract="The discovery of anti-cancer drug targets is of fundamental importance for cancer medicine. Synthetic lethality (SL) is a type of genetic interaction typically between two genes, which is that perturbations to both genes will kill a cell but perturbation to one gene alone will not. It is a gold mine of anti-cancer drug targets since targeting an SL partner of a gene with cancer-specific abnormality can selectively kill cancer cells without harming normal cells. Wet-lab screening methods usually have high cost, while statistical and machine learning methods cannot fully utilize the prior knowledge or lack clear explanations. We have developed a series of deep learning methods using Graph Neural Networks (GNNs), Knowledge Graphs (KGs) and Large Language Models (LLMs) to predict SLs and understand the underlying mechanisms. For instance, we developed NexLeth, the first dataset and framework for generating natural language explanations of SL mechanisms by fusing knowledge graphs and prompt engineering on pre-trained language models (e.g. GPT). Then, we proposed SL-MERK, an LLM-based framework that integrates GraphRAG (Graph Retrieval-Augmented Generation) with knowledge graph for generating natural language explanations of SL mechanisms. These studies demonstrated the power of LLMs for explainable recommendation of SL-based anti-cancer drug targets, with potential for accelerating cancer precision medicine." %}
 </div>
 
 
