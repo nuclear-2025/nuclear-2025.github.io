@@ -31,7 +31,7 @@ This workshop will be an **hybrid** one-day even taking place on <b>Sep 09</b> a
 Physical location: [Shanghai Advanced Research Institute, Chinese Academy of Sciences](http://english.sari.cas.cn/), Shanghai, China.
 
 
-Submission Deadline: Aug 01 (anywhere on Earth)
+Submission Deadline: Aug 01 (anywhere on Earth)—submission is closed.
 
 Abstracts will be submitted by email to <a href="mailto:dima@ieee.org">dima@ieee.org</a>.
 

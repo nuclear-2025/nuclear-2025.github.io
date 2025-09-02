@@ -19,10 +19,10 @@ The schedule to be updated.
 | 7:00 (15:00 Shanghai) | **Welcome and Opening Remarks**                                                                                                                                    |
 |         7:10          | **Prof. Xiaoying Zheng**, Shanghai Advanced Research Institute, CAS <br> *FAST Telescope’s High‑Speed Data Stream Processing & Coherent De‑dispersion for SKA‑mid* |
 |         7:35          | **Dr. Shoupeng Wang**: Transformer Algorithm for Pile-up Correction in Synchrotron Spectroscopic Detection                                                         |
-|         8:00          | **Prof. Yue Zhang**: Progress on the SLEGS Beamline Nuclear Resonance Fluorescence Spectrometer                                                                    |
-|         8:25          | **Prof. Zheng Jie**: Explainable AI for Discovery of Synthetic Lethal Anti-Cancer Drug Targets Based on Large Language Models                                      |
+|         8:00          | **Dr. Yue Zhang**: Progress on the SLEGS Beamline Nuclear Resonance Fluorescence Spectrometer                                                                      |
+|         8:25          | **Prof. Jie Zheng**: Explainable AI for Discovery of Synthetic Lethal Anti-Cancer Drug Targets Based on Large Language Models                                      |
 |         8:50          | **Dr. Tom Trigano**: TBD                                                                                                                                           |
-|         9:15          | **Dr. Thierry Montagu**: TBD                                                                                                                                                      |
+|         9:15          | **Dr. Thierry Montagu**: TBD                                                                                                                                       |
 |         9:40          | Closing Remarks                                                                                                                                                    |
 {: .table}
 {: .table-striped}
