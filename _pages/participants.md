@@ -43,6 +43,13 @@ The list of speakers is being finalized. Check back soon!
 	title="Explainable AI for Discovery of Synthetic Lethal Anti-Cancer Drug Targets Based on Large Language Models"
 	affiliation="ShanghaiTech University"
 	abstract="The discovery of anti-cancer drug targets is of fundamental importance for cancer medicine. Synthetic lethality (SL) is a type of genetic interaction typically between two genes, which is that perturbations to both genes will kill a cell but perturbation to one gene alone will not. It is a gold mine of anti-cancer drug targets since targeting an SL partner of a gene with cancer-specific abnormality can selectively kill cancer cells without harming normal cells. Wet-lab screening methods usually have high cost, while statistical and machine learning methods cannot fully utilize the prior knowledge or lack clear explanations. We have developed a series of deep learning methods using Graph Neural Networks (GNNs), Knowledge Graphs (KGs) and Large Language Models (LLMs) to predict SLs and understand the underlying mechanisms. For instance, we developed NexLeth, the first dataset and framework for generating natural language explanations of SL mechanisms by fusing knowledge graphs and prompt engineering on pre-trained language models (e.g. GPT). Then, we proposed SL-MERK, an LLM-based framework that integrates GraphRAG (Graph Retrieval-Augmented Generation) with knowledge graph for generating natural language explanations of SL mechanisms. These studies demonstrated the power of LLMs for explainable recommendation of SL-based anti-cancer drug targets, with potential for accelerating cancer precision medicine." %}
+
+  {% include horizontal_talk.html
+	url="https://en.sce.ac.il/faculty/tom"
+	name="Dr. Tom Trigano"
+	title="Machine Learning for Activity Estimation in Spectroscopy Signals"
+	affiliation="Shamoon College of Engineering"
+	abstract="The field of nuclear spectroscopy has received considerable interest in the last decades, particularly due to the exponential development of novel Machine Learning (ML) and Deep Learning (DL) techniques. However, the lack of annotated data often prevents their use at a large scale. In this presentation, we show how ML/DL methods can be used to extract the activity of a radioactive source directly from the time signal. Although simple, this illustration demonstrates that much remains to be done to fully leverage the potential of ML/DL techniques." %}  
 </div>
 
 

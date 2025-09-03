@@ -23,7 +23,7 @@ that are
 |         7:35          | **Dr. Shoupeng Wang** <br/>Transformer Algorithm for Pile-up Correction in Synchrotron Spectroscopic Detection                    |
 |         8:00          | **Dr. Yue Zhang** <br/>Progress on the SLEGS Beamline Nuclear Resonance Fluorescence Spectrometer                                 |
 |         8:25          | **Prof. Jie Zheng** <br/>Explainable AI for Discovery of Synthetic Lethal Anti-Cancer Drug Targets Based on Large Language Models |
-|         8:50          | **Dr. Tom Trigano** <br/>TBD                                                                                                      |
+|         8:50          | **Dr. Tom Trigano** <br/>Machine Learning for Activity Estimation in Spectroscopy Signals                                                                                                      |
 |         9:15          | **Dr. Thierry Montagu** <br/>TBD                                                                                                  |
 |         9:40          | Closing Remarks                                                                                                                   |
 {: .table}
