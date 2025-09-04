@@ -27,7 +27,7 @@ Workshop participants are welcome to attend the workshop in their local time zon
 |   10:00   |   11:00    |    16:00     | **Dr. Yue Zhang** <br/> Progress on the SLEGS Beamline Nuclear Resonance Fluorescence Spectrometer |
 |   10:25   |   11:25    |    16:25     | **Prof. Jie Zheng** <br/> Explainable AI for Discovery of Synthetic Lethal Anti-Cancer Drug Targets Based on Large Language Models |
 |   10:50   |   11:50    |    16:50     | **Dr. Tom Trigano** <br/> Machine Learning for Activity Estimation in Spectroscopy Signals |
-|   11:15   |   12:15    |    17:15     | **Dr. Thierry Montagu** <br/> TBD |
+|   11:15   |   12:15    |    17:15     | **Dr. Thierry Montagu** <br/> Variance-Stabilizing Transformations for Shot-Noise Count-Rate Estimation via the Delta Method |
 |   11:40   |   12:40    |    17:40     | Closing Remarks |                                                                                                                 |
 {: .table}
 {: .table-striped}
