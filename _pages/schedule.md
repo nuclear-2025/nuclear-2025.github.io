@@ -14,7 +14,8 @@ that are
 * 09:00-12:00 Paris (UTC+2)
 * 10:00-13:00 Israel (UTC+3)
 * 15:00-18:00 Shanghai  (UTC+8)
-Workshop participants are welcome to attend the workshop in their local time zone.
+
+Remote workshop participants are welcome to attend the workshop in their local time zone.
 
 **[Zoom link](https://sce-ac-il.zoom.us/j/89901080318?pwd=2cflusWhQ2YeeFmPEUaVNz7K2ai7hf.1&jst=3)** for the workshop.
 
