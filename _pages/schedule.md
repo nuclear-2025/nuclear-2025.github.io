@@ -26,9 +26,11 @@ Remote workshop participants are welcome to attend the workshop in their local t
 |   09:10   |   10:10    |    15:10     | **Prof. Xiaoying Zheng** <br/> FAST Telescope’s High-Speed Data Stream Processing & Coherent De-dispersion for SKA-mid             |
 |   09:35   |   10:35    |    15:35     | **Dr. Shoupeng Wang** <br/> Transformer Algorithm for Pile-up Correction in Synchrotron Spectroscopic Detection                    |
 |   10:00   |   11:00    |    16:00     | **Dr. Yue Zhang** <br/> Progress on the SLEGS Beamline Nuclear Resonance Fluorescence Spectrometer                                 |
-|   10:25   |   11:25    |    16:25     | **Prof. Jie Zheng** <br/> Explainable AI for Discovery of Synthetic Lethal Anti-Cancer Drug Targets Based on Large Language Models |
-|   10:50   |   11:50    |    16:50     | **Dr. Tom Trigano** <br/> Machine Learning for Activity Estimation in Spectroscopy Signals                                         |
-|   11:15   |   12:15    |    17:15     | **Dr. Thierry Montagu** <br/> Variance stabilized intensity estimators for neutron measurements                                    |
-|   11:40   |   12:40    |    17:40     | Closing Remarks                                                                                                                    |                                                                                                                 |
+|   10:25   |   11:25    |    16:25     | **Break (15 minutes)**                                                                                                             |
+|   10:40   |   11:40    |    16:40     | **Prof. Jie Zheng** <br/> Explainable AI for Discovery of Synthetic Lethal Anti-Cancer Drug Targets Based on Large Language Models |
+|   11:05   |   12:05    |    17:05     | **Dr. Tom Trigano** <br/> Machine Learning for Activity Estimation in Spectroscopy Signals                                         |
+|   11:30   |   12:30    |    17:30     | **Dr. Thierry Montagu** <br/> Variance stabilized intensity estimators for neutron measurements                                    |
+|   11:55   |   12:55    |    17:55     | Closing Remarks                                                                                                                    |
+
 {: .table}
 {: .table-striped}
