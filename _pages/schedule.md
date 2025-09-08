@@ -31,6 +31,5 @@ Remote workshop participants are welcome to attend the workshop in their local t
 |   11:05   |   12:05    |    17:05     | **Dr. Tom Trigano** <br/> Machine Learning for Activity Estimation in Spectroscopy Signals                                         |
 |   11:30   |   12:30    |    17:30     | **Dr. Thierry Montagu** <br/> Variance stabilized intensity estimators for neutron measurements                                    |
 |   11:55   |   12:55    |    17:55     | Closing Remarks                                                                                                                    |
-
 {: .table}
 {: .table-striped}
