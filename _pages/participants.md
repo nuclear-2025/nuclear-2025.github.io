@@ -45,13 +45,6 @@ toc:
 	affiliation="Shamoon College of Engineering"
 	abstract="The field of nuclear spectroscopy has received considerable interest in the last decades, particularly due to the exponential development of novel Machine Learning (ML) and Deep Learning (DL) techniques. However, the lack of annotated data often prevents their use at a large scale. In this presentation, we show how ML/DL methods can be used to extract the activity of a radioactive source directly from the time signal. Although simple, this illustration demonstrates that much remains to be done to fully leverage the potential of ML/DL techniques." %}
 
-{% include horizontal_talk.html
-    url="https://www.linkedin.com/in/thierry-montagu-a06022138/"
-    name="Dr. Thierry Montagu"
-    title="Variance stabilized intensity estimators for neutron measurements"
-    affiliation="Exail robotics"
-    abstract="The Shot Noise process is a well-known stochastic process in physics, particularly in nuclear physics, as it effectively models particles (photons, neutrons, etc.) impinging on detectors. The intensity λ of the Shot noise is related to the count rate (typically the number of particles detected per second). For very high count rates, individual detections and the first and second cumulants of the shot noise allow us to estimate the count rate. It is noted that the variance of the estimators of the first two cumulants of the Shot Noise process is a function of their expectations. This property also holds for the two 'plug-in' estimators of the intensity λ based on the two preceding estimators; this property is called heteroscedasticity in statistics. In order to make this variance independent of λ, variance-stabilizing transformations are constructed using the Delta Method for the estimators used in neutron measurements." 
-%}
 </div>
 
 
