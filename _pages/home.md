@@ -35,5 +35,7 @@ Submission Deadline: Aug 01 (anywhere on Earth)—submission is closed.
 
 Abstracts will be submitted by email to <a href="mailto:dima@ieee.org">dima@ieee.org</a>.
 
+## **[Zoom recording](https://sce-ac-il.zoom.us/rec/share/UQje33Ctz0XMbHH-2mtGVhonT6x-Le4sknom-yNdsUgVf_5vEbQzJQMnKkt9xDMw.lhJIjitaMPYvGN79?startTime=1757401305000)** of the workshop.
+
 
 

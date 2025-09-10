@@ -17,8 +17,6 @@ that are
 
 Remote workshop participants are welcome to attend the workshop in their local time zone.
 
-**[Zoom link](https://sce-ac-il.zoom.us/j/89901080318?pwd=2cflusWhQ2YeeFmPEUaVNz7K2ai7hf.1&jst=3)** for the workshop.
-
 
 | **Paris** | **Israel** | **Shanghai** | **Session**                                                                                                                        |
 |:---------:|:----------:|:------------:|:-----------------------------------------------------------------------------------------------------------------------------------|
